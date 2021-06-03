@@ -1,0 +1,1 @@
+Generates a name from two distinct lists containing equal amount of names. Only has a few names.
